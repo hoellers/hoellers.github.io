@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+My research fits into two clear, but interconnected tracks. Please click on the links below to see more detail on projects associated with each track.
+
+{% for research in site.research %}
+
+<a href="{{ research.url | prepend: site.baseurl }}">
+  <h2>{{ research.title }}</h2>
+</a>
+
+<p class="post-excerpt">{{ research.description | truncate: 160 }}</p>
+
+{% endfor %}
+
+
