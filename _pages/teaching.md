@@ -17,10 +17,10 @@ I have taught substantive classes as well as methods-oriented classes. I have a 
 
 * **POLI 784: Regression Models in Political Science _Lab_** (Spring 2019, Spring 2020)
   * Lab section for second course in Ph.D. program's methods sequence, focusing on introducing the linear model and generalized linear models.
-  * [Spring 2020 course syllabus]({{ site.url }}/files/teaching/SyllabusPOLI784_Sp19.pdf)
+  * [Spring 2020 course syllabus]({{ site.url }}/files/teaching/SyllabusPOL784_Sp19.pdf)
   * [Spring 2019 course syllabus]({{ site.url }}/files/teaching/POLI784_Sp20.pdf)
 
 * **POLI 130: Introduction to Comparative Politics** (Summer 2018, Summer 2019, Fall 2019, Fall 2020)
   * Course that introduces undergraduate students to the basics of comparative politics, with a focus on regime classification and democratization.
-  * [Fall 2020 syllabus]({{ site.url }}/files/teaching/POLI130_Fall20_Syllabus.pdf) 
+  * [Fall 2020 syllabus]({{ site.url }}/files/teaching/POLI130_Fall20_Syllabus.pdf)
   * [Fall 2019 syllabus]({{ site.url }}/files/teaching/POLI130_Fall19_Syllabus.pdf)
