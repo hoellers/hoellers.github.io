@@ -13,6 +13,7 @@ I have taught substantive classes as well as methods-oriented classes. I have a 
 
 * **POLI 281: Data in Politics I: An Introduction** (Spring 2021, Fall 2021)
   * Course that introduces undergraduate students to basic data analysis in political science.
+  * [Fall 2021 syllabus]({{ site.url }}/files/teaching/POLI281_F21_Syllabus.pdf)
   * [Spring 2021 syllabus]({{ site.url }}/files/teaching/POLI281_Sp21_Syllabus.pdf)
 
 * **POLI 784: Regression Models in Political Science _Lab_** (Spring 2019, Spring 2020)
