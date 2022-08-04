@@ -12,6 +12,13 @@ For a summary of my teaching evaluations, please click [here]({{ site.url }}/fil
 
 # Primary Instructor
 
+## Vassar College (2022 - )
+
+* **MATH/CMPU 144: Foundations of Data Science** (Fall 2022)
+  * Course that introduces undergraduate students the basics of data science.
+
+## UNC-Chapel Hill (2016 - 2022)
+
 * **POLI 281: Data in Politics I: An Introduction** (Spring 2021, Fall 2021)
   * Course that introduces undergraduate students to basic data analysis in political science.
   * [Fall 2021 syllabus]({{ site.url }}/files/teaching/POLI281_F21_Syllabus.pdf)

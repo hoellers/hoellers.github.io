@@ -83,7 +83,7 @@ author:
   name             : "Simon Hoellerbauer"
   avatar           : "profile_pic.jpg"
   bio              : "PhD Candidate"
-  location         : "Chapel Hill, NC"
+  location         : "Poughkeepsie, NY"
   employer         :
   pubmed           :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0003-2245-2801 #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
