@@ -15,7 +15,7 @@ For a summary of my teaching evaluations, please click [here]({{ site.url }}/fil
 ## Vassar College (2022 - )
 
 * **MATH/CMPU 144: Foundations of Data Science** (Fall 2022)
-  * Course that introduces undergraduate students the basics of data science.
+  * Course that introduces undergraduate students to the basics of data science.
 
 ## UNC-Chapel Hill (2016 - 2022)
 
