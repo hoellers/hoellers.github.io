@@ -16,14 +16,17 @@ For a summary of my teaching evaluations, please click [here]({{ site.url }}/fil
 
 * **MATH/CMPU 144: Foundations of Data Science** (Fall 2022)
   * Course that introduces undergraduate students to the basics of data science.
+  * [Fall 2022 syllabus]({{ site.url }}/files/teaching/math_cmpu144_F22_syllabus.html)
   
 * **MATH/CMPU 280: Intermediate Data Science** (Spring 2023)
   * Follow up course to MATH/CMPU 144 that focuses on data science tasks like
   data visualization, web scraping, and machine learning.
+    * [Spring 2023 syllabus]({{ site.url }}/files/teaching/math_cmpu280_S23_syllabus.html)
   
-* **Liberal Arts Collaborative for Digital Innovation (LACOL)** [**Applied Machine Learning**](https://lacol.net/applied-ml/) (Summer 2023)
+* **Liberal Arts Collaborative for Digital Innovation (LACOL) Applied Machine Learning** (Summer 2023)
   * Applied machine learning course designed for non-statistics and computer 
-  science students
+  science students.
+  * [Course page at LACOL](https://lacol.net/applied-ml/)
 
 ## UNC-Chapel Hill (2016 - 2022)
 
