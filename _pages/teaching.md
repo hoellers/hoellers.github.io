@@ -19,6 +19,12 @@ For a summary of my teaching evaluations, please click [here]({{ site.url }}/fil
   * [Fall 2023 syllabus]({{ site.url }}/files/teaching/math_cmpu144_F23_syllabus.html)
   * [Fall 2022 syllabus]({{ site.url }}/files/teaching/math_cmpu144_F22_syllabus.html)
 
+* **MATH 290: Community-Engaged Learning: Political Data Analysis** (Fall 2022)
+  * Individual learning experience where instructor serves as academic mentor for
+  student working with a community organization
+  * Mentee worked with Bluebonnet Data to analyze data for a political campaign
+  in Maryland
+
 * **MATH/CMPU 280: Intermediate Data Science** (Spring 2023)
   * Follow up course to MATH/CMPU 144 that focuses on data science tasks like
   data visualization, web scraping, and machine learning.
