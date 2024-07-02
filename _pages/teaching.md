@@ -12,7 +12,16 @@ For a summary of my teaching evaluations, please click [here]({{ site.url }}/fil
 
 # Primary Instructor
 
-## Vassar College (2022 - )
+## University of Massachusetts Amherst
+
+* **DACSS 601: Data Science Fundamentals** (Fall 2024)
+  * Course that introduces DACSS masters students to statistical programming
+  using R
+* **DACSS 756: Machine Learning for Social Science** (Fall 2024)
+  * Course for DACSS masters students on machine learning and applying the
+  associated methods to the social sciences
+
+## Vassar College (2022 - 2024)
 
 * **MATH/CMPU 144: Foundations of Data Science** (Fall 2023, Fall 2022)
   * Course that introduces undergraduate students to the basics of data science.
@@ -25,10 +34,11 @@ For a summary of my teaching evaluations, please click [here]({{ site.url }}/fil
   * Mentee worked with Bluebonnet Data to analyze data for a political campaign
   in Maryland
 
-* **MATH/CMPU 280: Intermediate Data Science** (Spring 2023)
+* **MATH/CMPU 280: Intermediate Data Science** (Spring 2023, Spring 2024)
   * Follow up course to MATH/CMPU 144 that focuses on data science tasks like
   data visualization, web scraping, and machine learning.
   * [Spring 2023 syllabus]({{ site.url }}/files/teaching/math_cmpu280_S23_syllabus.html)
+  * [Spring 2024 syllabus]({{ site.url }}/files/teaching/math_cmpu280_S24_syllabus.html)
 
 * **Liberal Arts Collaborative for Digital Innovation (LACOL) Applied Machine Learning** (Summer 2023)
   * Applied machine learning course designed for non-statistics and computer
