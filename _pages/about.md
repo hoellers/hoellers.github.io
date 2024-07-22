@@ -9,7 +9,7 @@ redirect_from:
   - /home/
 ---
 
-Hello! Starting Fall 2024, I am Lecturer of [Data Analytics and Computational Social Science](https://www.umass.edu/social-sciences/academics/dacss)
+Hello! My name is Simon (pronounced [sea + (monkey - key)](https://translate.google.com/?sl=en&tl=de&text=simon&op=translate)) Hoellerbauer. Starting Fall 2024, I am Lecturer of [Data Analytics and Computational Social Science](https://www.umass.edu/social-sciences/academics/dacss)
 at the University of Massachusetts Amherst.
 I earned my Ph.D. in [Political Science](https://politicalscience.unc.edu/), with a minor in [Statistics](https://stor.unc.edu/), at the [University of North Carolina at Chapel Hill](https://www.unc.edu/). Previously, I was Postdoctoral Fellow in Data Science and Society at [Vassar College](https://www.vassar.edu/) from 2022 to 2024.
 
