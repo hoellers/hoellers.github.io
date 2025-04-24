@@ -14,12 +14,14 @@ For a summary of my teaching evaluations, please click [here]({{ site.url }}/fil
 
 ## University of Massachusetts Amherst
 
-* **DACSS 601: Data Science Fundamentals** (Fall 2024)
+* **DACSS 601: Data Science Fundamentals** (Fall 2024, Spring 2025)
   * Course that introduces DACSS masters students to statistical programming
   using R
 * **DACSS 756: Machine Learning for Social Science** (Fall 2024)
   * Course for DACSS masters students on machine learning and applying the
   associated methods to the social sciences
+* **DACSS 604: Advanced Data-Driven Storytelling** (Spring 2025)
+  * Teaches students how to tell research-driven stories with data
 
 ## Vassar College (2022 - 2024)
 
