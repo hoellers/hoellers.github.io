@@ -12,6 +12,12 @@ For a summary of my teaching evaluations, please click [here]({{ site.url }}/fil
 
 # Primary Instructor
 
+## Trinity College (2025 - )
+
+* **LAAL 201: Hartford Research Project**
+  * Fall 2025 Project: Transportation Equity and Parking Justice Project with
+  [Advocacy to Legacy](https://www.advocacytolegacy.org/)
+
 ## University of Massachusetts Amherst (2024 - 2025)
 
 * **DACSS 601: Data Science Fundamentals** (Fall 2024, Spring 2025)
